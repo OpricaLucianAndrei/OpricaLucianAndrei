@@ -1,18 +1,24 @@
 <div id="header" align="center">
   <img src="https://media.licdn.com/dms/image/D5616AQH8kAk9CvEifw/profile-displaybackgroundimage-shrink_350_1400/0/1712784261673?e=1718236800&v=beta&t=YLbIXR0Mw4zix5v7zJNFY-SCcggN_lDKeo05bE-xPEk" width="100%"/>
 </div>
+
 <div id="badges" align="center">
   <a href="www.linkedin.com/in/lucian-oprica-46723a2b5">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
 <div align="center">
-<img align="center" src="https://komarev.com/ghpvc/?username=OpricaLucianAndrei&style=flat-square&color=blue" alt=""/>
+    <img align="center" src="https://komarev.com/ghpvc/?username=OpricaLucianAndrei&style=flat-square&color=blue" alt=""/>
 </div>
+
 ### Hi there 👋
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+
 ### 👨‍💻 : About Me:
 
 I am a Junior Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
