@@ -45,6 +45,7 @@ I am a Junior Full Stack Web Developer <img src="https://media.giphy.com/media/W
   </div>
 
 ### 🔥: My Stats :
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OpricaLucianAndrei&theme=dark&background=000000)](https://git.io/streak-stats)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OpricaLucianAndrei&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OpricaLucianAndrei&theme=dark&background=000000)](https://git.io/streak-stats)
+  <br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OpricaLucianAndrei&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
