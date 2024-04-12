@@ -6,7 +6,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+<div align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=OpricaLucianAndrei&style=flat-square&color=blue" alt=""/>
+</div>
 ### Hi there 👋
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
