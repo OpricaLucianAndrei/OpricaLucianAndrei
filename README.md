@@ -7,6 +7,9 @@
   <a href="http://www.linkedin.com/in/lucian-oprica-46723a2b5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="http://https://www.instagram.com/lucian_2301_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
 </div>
 
 <div align="center">
