@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.licdn.com/dms/image/D5616AQH8kAk9CvEifw/profile-displaybackgroundimage-shrink_350_1400/0/1712784261673?e=1718236800&v=beta&t=YLbIXR0Mw4zix5v7zJNFY-SCcggN_lDKeo05bE-xPEk" width="100%"/>
 </div>
+<br/>
 
 <div id="badges" align="center">
   <a href="www.linkedin.com/in/lucian-oprica-46723a2b5/">
