@@ -4,7 +4,7 @@
 <br/>
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/lucian-oprica" target="_blank">
+  <a href="www.linkedin.com/in/lucian-oprica-46723a2b5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
