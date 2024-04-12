@@ -12,7 +12,7 @@
     <img align="center" src="https://komarev.com/ghpvc/?username=OpricaLucianAndrei&style=flat-square&color=blue" alt=""/>
 </div>
 
-### Hi there 👋
+<h1 align="center">  Hi there 👋 </h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
