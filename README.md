@@ -34,7 +34,7 @@ I am a Junior Full Stack Web Developer <img src="https://media.giphy.com/media/W
 
 - ⚡: In my free time, I read tech articles, listen to music and resolve quiz and sudoku.
 
-- 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([http://www.linkedin.com/in/lucian-oprica-](https://www.linkedin.com/in/lucian-andrei-oprica-))
+- 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucian-andrei-oprica-46723a2b5/)
 
   <hr />
 
