@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.licdn.com/dms/image/D5616AQH8kAk9CvEifw/profile-displaybackgroundimage-shrink_350_1400/0/1712784261673?e=1718236800&v=beta&t=YLbIXR0Mw4zix5v7zJNFY-SCcggN_lDKeo05bE-xPEk" width="100%"/>
+  <img src="![2](https://github.com/OpricaLucianAndrei/OpricaLucianAndrei/assets/152313869/a50c93e5-46b7-4078-acd7-21de905764f9)"
+ width="100%"/>
 </div>
 <br/>
 
