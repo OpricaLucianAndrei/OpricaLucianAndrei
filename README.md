@@ -1,11 +1,11 @@
 <div id="header" align="center">
   <img src="![2](https://github.com/OpricaLucianAndrei/OpricaLucianAndrei/assets/152313869/a50c93e5-46b7-4078-acd7-21de905764f9)"
- width="100%"/>
+ width="100%" />
 </div>
 <br/>
 
 <div id="badges" align="center">
-  <a href="[http://www.linkedin.com/in/lucian-oprica-46723a2b5](https://www.linkedin.com/in/lucian-andrei-oprica-46723a2b5/)" target="_blank">
+  <a href="http://www.linkedin.com/in/lucian-oprica-46723a2b5" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/lucian_2301_" target="_blank">
