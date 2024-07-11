@@ -4,10 +4,10 @@
 <br/>
 
 <div id="badges" align="center">
-  <a href="http://www.linkedin.com/in/lucian-oprica-46723a2b5/" target="_blank">
+  <a href="http://www.linkedin.com/in/lucian-oprica-46723a2b5" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/lucian_2301_/" target="_blank">
+  <a href="https://www.instagram.com/lucian_2301_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
@@ -33,7 +33,7 @@ I am a Junior Full Stack Web Developer <img src="https://media.giphy.com/media/W
 
 - ⚡: In my free time, I read tech articles, listen to music and resolve quiz and sudoku.
 
-- 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/lucian-oprica-46723a2b5/)
+- 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/lucian-oprica-46723a2b5)
 
   <hr />
 
