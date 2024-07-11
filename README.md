@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="![2](https://github.com/OpricaLucianAndrei/OpricaLucianAndrei/assets/152313869/a50c93e5-46b7-4078-acd7-21de905764f9)"
- width="100%" />
+ ![2](https://github.com/OpricaLucianAndrei/OpricaLucianAndrei/assets/152313869/956ca6e6-92e2-45aa-af49-73ea8c677ac9)
+
 </div>
 <br/>
 
